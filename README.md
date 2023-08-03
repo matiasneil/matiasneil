@@ -1,14 +1,4 @@
-### <div align="center">I'm Matías, a full-stack developer 👨‍💻 from Argentina </div>  
-  
-
-- 🌱 I’m currently learning Next.js  
-  
-
-- 💯 I've recently made an app for creating cover images for Twitter 😋 [SongCover App](https://songcover.vercel.app)  
-  
-
-- 🎸 I like the artist formerly known as Prince... a lot  
-  
+### <div align="center">I'm Matías, a full-stack developer 👨‍💻 from Argentina </div>    
 
 <br/>  
 
@@ -50,14 +40,7 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matiasneil&hide_border=true&layout=compact" align="center" /></div>  
 
-<br/>  
-
-
-
-### what I'm playing on Spotify now 🤓  
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=11122404380&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" /></div>  
-
-<br/>  
+<br/>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=matiasneil&&style=flat-square" align="center" />
